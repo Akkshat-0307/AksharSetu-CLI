@@ -26,17 +26,17 @@ AksharSetu-CLI is a terminal-based educational diagnostic engine built entirely 
    ```bash
    javac -cp "lib/*" -d bin src/**/*.java src/*.java
 3. **Execute the application:**
-```bash
+   ```bash
    java -cp "bin:lib/*" Main
 
-##Instructions for Testing
+## Instructions for Testing
  
  Launch the application and s elect 1. Login as Student.
  Enter your name and take the diagnostic assessment by entering the numeric choice for each question.
  Upon completion, verify that a new .txt file containing the learning gap analysis has been created in the data/ directory.
  Restart the application and select 2. Mentor Login to trigger the multi-threaded batch processing simulation. Observe the concurrent terminal output.
 
-##Screenshots
+## Screenshots
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
