@@ -37,7 +37,8 @@ AksharSetu-CLI is a terminal-based educational diagnostic engine built entirely 
  Restart the application and select 2. Mentor Login to trigger the multi-threaded batch processing simulation. Observe the concurrent terminal output.
 
 ## Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="452" height="316" alt="image" src="https://github.com/user-attachments/assets/c0c51145-4ea4-4a43-9c48-6a99dd291b2e" />
+<img width="452" height="143" alt="image" src="https://github.com/user-attachments/assets/0f672a30-96ff-427d-ab21-376a7cc16025" />
+<img width="452" height="165" alt="image" src="https://github.com/user-attachments/assets/2b79d676-e78a-4cdc-ad20-c67068ef5743" />
+<img width="452" height="374" alt="image" src="https://github.com/user-attachments/assets/4121b66c-c9c0-4d53-8df2-276464da8920" />
+
